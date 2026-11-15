@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Lore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Lore"
             }
           }
         ]
@@ -191,15 +191,16 @@
   },
   "active": "d29e63ff4b0c8f04",
   "lastOpenFiles": [
-    "Session Summaries/1 - The Search for Steven.md",
-    "1- Anatomy of a Score.md",
-    "2- Downtime.md",
     "README.md",
+    "Rules/Downtime.md",
+    "Rules/Anatomy of a Score.md",
+    "Lore.md",
+    "Rules",
+    "Session Summaries/1 - The Search for Steven.md",
     "Session Summaries/2 - Kid Rescue.md",
     "Images/Evelyn and Tessa.png",
     "Images/Mara (heroforge).png",
     "Session Summaries/3 - Kinda Dark in Here.md",
-    "3- World + Lore.md",
     "Crew Sheet.md",
     "Images/Pasted image 20261115004838.png",
     "Images",
