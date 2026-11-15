@@ -1,0 +1,1 @@
+ bitd_player_resources
